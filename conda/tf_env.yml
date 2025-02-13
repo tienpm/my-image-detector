@@ -1,0 +1,20 @@
+name: tfImgDet
+channels:
+  - conda-forge
+  - defaults
+  - nvidia
+# - javascripts
+dependencies:
+  - python=3.9.16
+  - conda-forge::cudatoolkit=11.2.2
+  - conda-forge::cudnn=8.1.0
+  - codecov
+  - pip
+  - boto3>=1.15.0
+  - google-cloud-sdk
+  - jupyterlab
+  - conda-forge::widgetsnbextension
+  - conda-forge::ipywidgets
+# variables:
+
+# prefix: /conda/envs/tfImgDet

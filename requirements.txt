@@ -1,0 +1,10 @@
+matplotlib==3.9.2
+seaborn==0.13.2
+transformers==4.46.0
+datasets==3.0.2
+tqdm==4.66.5
+torch==2.5.0
+apache-beam
+google-cloud-storage
+tensorflow==2.16.2
+tensorflow-datasets==4.9.6
